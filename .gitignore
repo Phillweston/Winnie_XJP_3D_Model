@@ -1,0 +1,17 @@
+# Unity generated files
+Xi_Jinping_Unity_pack/[Ll]ibrary/
+Xi_Jinping_Unity_pack/[Tt]emp/
+Xi_Jinping_Unity_pack/[Oo]bj/
+Xi_Jinping_Unity_pack/[Bb]uild/
+Xi_Jinping_Unity_pack/[Bb]uilds/
+Xi_Jinping_Unity_pack/[Ll]ogs/
+Xi_Jinping_Unity_pack/[Uu]nityGenerated/
+Xi_Jinping_Unity_pack/[Uu]nityPackageManager/
+
+# Visual Studio files
+Xi_Jinping_Unity_pack/.vs/
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
